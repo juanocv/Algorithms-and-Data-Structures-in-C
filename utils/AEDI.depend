@@ -1,0 +1,153 @@
+# depslib dependency file v1.0
+1645058943 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\main.c
+	<stdio.h>
+
+1645117813 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\imprimir_qtd_palavras.c
+	<stdio.h>
+	<stdio.h>
+
+1645058943 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\potencias_2.c
+	<stdio.h>
+
+1645148043 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\maior_sequencia.c
+	<stdio.h>
+
+1645469376 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\numeros_matriz.c
+	<stdio.h>
+
+1645817177 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\funcao_param_referencia.c
+	<stdio.h>
+	<stdlib.h>
+
+1645826197 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\vetor.c
+	<stdio.h>
+	<stdlib.h>
+
+1645922367 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\freq_str.c
+	<stdio.h>
+	<stdlib.h>
+
+1646052281 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\palavra.c
+	<stdio.h>
+	<stdlib.h>
+
+1646266244 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\qtd_discos.c
+	<stdio.h>
+	<stdlib.h>
+
+1646834141 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\fracoes.c
+	<stdio.h>
+
+1647736270 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\requisitos.c
+	<stdio.h>
+	<stdlib.h>
+
+1646892235 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\ordenacao.c
+	<stdio.h>
+
+1647143996 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\disciplinas.c
+	<stdio.h>
+	<stdlib.h>
+
+1647609209 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\lista.c
+	<stdio.h>
+	<stdlib.h>
+
+1647817010 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\editar_dna.c
+	<stdio.h>
+	<stdlib.h>
+
+1647715142 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\intercalar.c
+	<stdio.h>
+	<stdlib.h>
+
+1647737280 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\duplicar.c
+	<stdio.h>
+	<stdlib.h>
+
+1647871293 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\editar_dna2.c
+	<stdlib.h>
+	<stdio.h>
+
+1648366065 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\verifica_expressao.c
+	<stdio.h>
+	<stdlib.h>
+
+1648445316 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\copa.c
+	<stdio.h>
+	<stdlib.h>
+
+1648702045 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\abb_maior_menor.c
+	<stdio.h>
+	<stdlib.h>
+
+1648708248 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\qtd_nos.c
+	<stdio.h>
+	<stdlib.h>
+
+1648711487 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\abb_chaves_comuns.c
+	<stdio.h>
+	<stdlib.h>
+
+1648966256 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\abb_sucessor_antecessor.c
+	<stdio.h>
+	<stdlib.h>
+
+1648942594 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\abb_menor_chave.c
+	<stdio.h>
+	<stdlib.h>
+
+1649023092 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\abb_string.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649792174 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\teste_avl.c
+	<stdio.h>
+	<stdlib.h>
+
+1649791058 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\avlnotas.c
+	<stdio.h>
+	<stdlib.h>
+
+1649829487 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\ordenar.c
+	<stdio.h>
+	<stdlib.h>
+
+1650264377 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\selectionsort.c
+	<stdio.h>
+	<stdlib.h>
+
+1650322072 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\insertionsort.c
+	<stdio.h>
+	<stdlib.h>
+
+1650520839 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+
+1650683202 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\mergesort_string.c
+	<stdio.h>
+	<stdlib.h>
+
+1650693318 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\discos.c
+	<stdio.h>
+	<stdlib.h>
+
+1650921672 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\quicksort_m.c
+	<stdio.h>
+	<stdlib.h>
+
+1651290169 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\heapsort.c
+	<stdio.h>
+	<stdlib.h>
+
+1651361170 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\countingsort.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1662425664 source:c:\users\juano\desktop\ufabc\bct\2022.1\algoritmos e estruturas de dados i - 2022.1\projetos\aedi\heap_min_max.c
+	<stdio.h>
+	<stdlib.h>
+
